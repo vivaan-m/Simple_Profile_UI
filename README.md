@@ -1,5 +1,5 @@
 # Simple Login UI
-![](https://raw.githubusercontent.com/vivaan-m/Simple_Profile_UI/master/Screenshot_1564464461.png)
+  <img src="https://raw.githubusercontent.com/vivaan-m/Simple_Profile_UI/master/Screenshot_1564464461.png" width="350" title="hover text">
 ## This Login Desgin Include
 * **[Stateful widget](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html)** -- Click to read about it.
 
